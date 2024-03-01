@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "AtulBha",
+  "repo": "container-i8dkhba",
+  "name": "AtulBha",
+  "email": "atulbha@gmail.com",
+}
